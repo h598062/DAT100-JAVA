@@ -1,4 +1,4 @@
-package jplab1;
+package no.hvl.dat100;
 
 public class Oppg5 {
   public static void main(String[] args) {

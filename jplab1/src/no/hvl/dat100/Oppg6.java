@@ -1,4 +1,4 @@
-package jplab1;
+package no.hvl.dat100;
 
 import easygraphics.EasyGraphics;
 import static javax.swing.JOptionPane.*;

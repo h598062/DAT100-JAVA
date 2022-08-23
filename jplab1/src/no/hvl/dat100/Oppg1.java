@@ -1,4 +1,4 @@
-package jplab1;
+package no.hvl.dat100;
 
 import static javax.swing.JOptionPane.*;
 import static java.lang.Double.*;
