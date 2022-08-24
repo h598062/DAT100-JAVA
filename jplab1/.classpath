@@ -6,6 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="../libs/easygraphics.jar"/>
+	<classpathentry kind="lib" path="../libraries/EasyGraphics/easygraphics.jar" sourcepath="/EasyGraphics"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
