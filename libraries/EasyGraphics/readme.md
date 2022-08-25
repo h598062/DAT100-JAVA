@@ -1,4 +1,4 @@
-### EasyGraphics library
+# EasyGraphics library #
 
 legg inn `<classpathentry kind="lib" path="../libraries/EasyGraphics/easygraphics.jar" sourcepath="/EasyGraphics"/>` i `.classpath` filen til prosjektet
 
