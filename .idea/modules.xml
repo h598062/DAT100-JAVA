@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" filepath="$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jplab0/jplab0.iml" filepath="$PROJECT_DIR$/jplab0/jplab0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jplab1/jplab1.iml" filepath="$PROJECT_DIR$/jplab1/jplab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jplab2/jplab2.iml" filepath="$PROJECT_DIR$/jplab2/jplab2.iml" />
+    </modules>
+  </component>
+</project>
