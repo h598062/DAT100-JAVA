@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67ceda0-f51a-4fe6-b408-9a2b60e443cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../jplab0/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab0/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab0/.idea/sonarlint/issuestore/2/7/275d783e298228506068436512433d343feb52aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab0/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab0/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab0/src/no/hvl/dat100/Oppg5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab0/src/no/hvl/dat100/Oppg5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab0/src/no/hvl/dat100Kalkulator/Grensesnitt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab0/src/no/hvl/dat100/kalkulator/Grensesnitt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab0/src/no/hvl/dat100Kalkulator/Kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab0/src/no/hvl/dat100/kalkulator/Kalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab0/src/no/hvl/dat100Kalkulator/TestKalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab0/src/no/hvl/dat100/kalkulator/TestKalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jplab0/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab0/jplab0.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

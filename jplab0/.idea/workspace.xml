@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d8aa58-f464-4fec-b353-b702ca2e33a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jplab0.eml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275d783e298228506068436512433d343feb52aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat100/Oppg5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat100/Oppg5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat100Kalkulator/Grensesnitt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat100/kalkulator/Grensesnitt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat100Kalkulator/Kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat100/kalkulator/Kalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat100Kalkulator/TestKalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat100/kalkulator/TestKalkulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jplab0.eml" beforeDir="false" afterPath="$PROJECT_DIR$/jplab0.eml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
