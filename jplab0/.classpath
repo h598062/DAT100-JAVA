@@ -7,6 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="../libraries/EasyGraphics/easygraphics.jar" sourcepath="/EasyGraphics"/>
+	<classpathentry kind="lib" path="C:/Users/Bjorn/git/DAT100-JAVA/libraries/EasyGraphics/easygraphics.jar" sourcepath="/EasyGraphics"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

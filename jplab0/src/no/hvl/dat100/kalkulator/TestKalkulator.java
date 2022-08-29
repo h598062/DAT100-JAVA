@@ -1,4 +1,4 @@
-package no.hvl.dat100Kalkulator;
+package no.hvl.dat100.kalkulator;
 
 import static org.junit.Assert.*;
 

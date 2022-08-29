@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-17" jdk_type="JavaSDK">
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="easygraphics.jar" scope="COMPILE">
+		<srcroot url="file:///EasyGraphics"/>
+		<srcroot url="file://$MODULE_DIR$/../libraries/EasyGraphics/src"/>
+	</lib>
+</component>

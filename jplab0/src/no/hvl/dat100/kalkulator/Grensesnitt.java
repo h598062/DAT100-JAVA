@@ -1,4 +1,4 @@
-package no.hvl.dat100Kalkulator;
+package no.hvl.dat100.kalkulator;
 
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
@@ -10,7 +10,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingUtilities;
 
-@SuppressWarnings("serial")
 public class Grensesnitt extends JFrame {
 
 	public Grensesnitt() {
