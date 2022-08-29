@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d8aa58-f464-4fec-b353-b702ca2e33a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jplab0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jplab1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jplab1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jplab1/jplab1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../libraries/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab1/src/no/hvl/dat100/Oppg2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab1/src/no/hvl/dat100/Oppg2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/2/a/2a630c00d7e068c6801036d506fa97d767a30abd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/3/6/3624cd7aec1d1cfadda1fe594bd931db88f07290" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/5/d/5dc631359796e689acfadd11b6c2499e651c7653" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/d/6/d6daafe6624b2c7a116a520e1d103742fd9880e1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jplab0.eml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275d783e298228506068436512433d343feb52aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat100/Oppg5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat100/Oppg5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat100Kalkulator/Grensesnitt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat100/kalkulator/Grensesnitt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat100Kalkulator/Kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat100/kalkulator/Kalkulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat100Kalkulator/TestKalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat100/kalkulator/TestKalkulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +33,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Bjorn/git/DAT100-JAVA/libraries/EasyGraphics",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
