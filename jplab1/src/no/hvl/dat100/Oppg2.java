@@ -6,21 +6,14 @@ public class Oppg2 {
 
 	public static void main(String[] args) {
 		
-		int n = 4;
-		if (n < 3) {
-			throw new RuntimeException("var n må være større enn 2");
-		}
+		double input1 = Double.parseDouble(showInputDialog("Tall 1"));
+		double input2 = Double.parseDouble(showInputDialog("Tall 2"));
+		double input3 = Double.parseDouble(showInputDialog("Tall 3"));
+		double input4 = Double.parseDouble(showInputDialog("Tall 4"));
 		
-		double[] input = new double[n+1];
-		
-		for (int i = 0; i < n; i++) {
-			input[i] = Double.parseDouble(showInputDialog("Tall " + (i+1)));
-		}
-		double minNum;
-		minNum = Math.min(input[0], input[1]);
-		for (int i = 2; i < n-1; i++) {
-			minNum = Math.min(minNum, input[i]);
-		}
+		double minNum = Math.min(input1, input2);
+		minNum = Math.min(minNum, input3);
+		minNum = Math.min(minNum, input4);
 			
 		String output = "Minste tall: " + minNum;
 		

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3d8aa58-f464-4fec-b353-b702ca2e33a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jplab0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jplab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jplab1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jplab1/jplab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libraries/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab1/src/no/hvl/dat100/Oppg2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab1/src/no/hvl/dat100/Oppg2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/2/a/2a630c00d7e068c6801036d506fa97d767a30abd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/3/6/3624cd7aec1d1cfadda1fe594bd931db88f07290" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/5/d/5dc631359796e689acfadd11b6c2499e651c7653" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/d/6/d6daafe6624b2c7a116a520e1d103742fd9880e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../jplab2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E2EEFFWphMVteqoUIP4RHw61ke" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3d8aa58-f464-4fec-b353-b702ca2e33a6" name="Changes" comment="" />
+      <created>1661785167538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661785167538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
