@@ -1,1 +1,3 @@
-# Nothing atm
+# IntelliJ filer
+*.eml
+workspace.xml
