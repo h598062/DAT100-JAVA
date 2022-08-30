@@ -66,5 +66,6 @@ public class OppgaveB5c {
 				}
 			} while (karakter.equals("Ugyldig"));
 		}
+		inputScanner.close();
 	}
 }

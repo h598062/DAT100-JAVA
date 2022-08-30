@@ -57,6 +57,6 @@ public class OppgaveB5a {
 		} else {
 			System.out.println("Studenten fikk karakteren " + karakter + " med poengsummen " + poengsum);
 		}
-
+		inputScanner.close();
 	}
 }
