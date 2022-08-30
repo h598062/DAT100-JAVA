@@ -7,7 +7,6 @@ import static javax.swing.JOptionPane.showMessageDialog;
 public class OppgaveB1 {
 	public static void main(String[] args) {
 
-		System.out.println("Hello world!");
 		double radius = Double.parseDouble(
 				showInputDialog("Skriv radius til en kule for å regne ut volum"));
 
