@@ -7,9 +7,10 @@ public class OppgaveB3 {
 	public static void main(String[] args) {
 		login();
 	}
-	public static void login () {
+
+	public static void login() {
 		String brukernavn = getUsername();
-		String passord = getPassword();
+		String passord    = getPassword();
 		// 0 = ok, 1 = feil passord, 2 = feil brukernavn
 		int loginStatus = evalLogin(brukernavn, passord);
 
@@ -27,7 +28,7 @@ public class OppgaveB3 {
 				case 2 -> {
 					showMessageDialog(null, "Feil brukernavn, prøv igjen");
 					brukernavn = getUsername();
-					passord = getPassword();
+					passord    = getPassword();
 				}
 				default -> {
 					System.out.println("invalid loginstatus " + loginStatus);
@@ -39,9 +40,10 @@ public class OppgaveB3 {
 		}
 
 	}
+
 	private static String getUsername() {
 		String usr = showInputDialog("Brukernavn :");
-		if (usr == null){
+		if (usr == null) {
 			throw new RuntimeException("user cancelled the input process");
 		} else {
 			usr = usr.toLowerCase();
@@ -52,17 +54,18 @@ public class OppgaveB3 {
 
 	private static String getPassword() {
 		String pwd = showInputDialog("Passord :");
-		if (pwd == null){
+		if (pwd == null) {
 			throw new RuntimeException("user cancelled the input process");
 		}
 		System.out.println("Passord: " + pwd);
 		return pwd;
 	}
-	private static int evalLogin(String brukernavn, String passord){
+
+	private static int evalLogin(String brukernavn, String passord) {
 		String riktigBrukernavn = "bjådd";
-		String riktigPassord = "1234";
-		if (riktigBrukernavn.equals(brukernavn)){
-			if (riktigPassord.equals(passord)){
+		String riktigPassord    = "1234";
+		if (riktigBrukernavn.equals(brukernavn)) {
+			if (riktigPassord.equals(passord)) {
 				// riktig login info
 				return 0;
 			} else {

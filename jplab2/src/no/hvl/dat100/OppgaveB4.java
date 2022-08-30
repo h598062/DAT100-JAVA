@@ -20,27 +20,27 @@ public class OppgaveB4 {
 
 		int bruttoInntekt = Integer.parseInt(showInputDialog("Skriv inn bruttoinntekt"));
 		System.out.println(bruttoInntekt);
-		int skatt = 0;
+		int skatt        = 0;
 		int nettoInntekt = bruttoInntekt;
 
-		if (bruttoInntekt >= trinn5){
-			skatt += (bruttoInntekt-trinn5)*trinn5Sats;
+		if (bruttoInntekt >= trinn5) {
+			skatt += (bruttoInntekt - trinn5) * trinn5Sats;
 			bruttoInntekt = trinn5 - 1;
 		}
-		if(bruttoInntekt >= trinn4){
-			skatt += (bruttoInntekt-trinn4)*trinn4Sats;
+		if (bruttoInntekt >= trinn4) {
+			skatt += (bruttoInntekt - trinn4) * trinn4Sats;
 			bruttoInntekt = trinn4 - 1;
 		}
-		if(bruttoInntekt >= trinn3){
-			skatt += (bruttoInntekt-trinn3)*trinn3Sats;
+		if (bruttoInntekt >= trinn3) {
+			skatt += (bruttoInntekt - trinn3) * trinn3Sats;
 			bruttoInntekt = trinn3 - 1;
 		}
-		if(bruttoInntekt >= trinn2){
-			skatt += (bruttoInntekt-trinn2)*trinn2Sats;
+		if (bruttoInntekt >= trinn2) {
+			skatt += (bruttoInntekt - trinn2) * trinn2Sats;
 			bruttoInntekt = trinn2 - 1;
 		}
-		if(bruttoInntekt >= trinn1){
-			skatt += (bruttoInntekt-trinn1)*trinn1Sats;
+		if (bruttoInntekt >= trinn1) {
+			skatt += (bruttoInntekt - trinn1) * trinn1Sats;
 		}
 		nettoInntekt -= skatt;
 		System.out.println(skatt);
