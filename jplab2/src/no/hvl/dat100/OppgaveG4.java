@@ -8,7 +8,7 @@ public class OppgaveG4 {
 		
 		int n = 5; // velger antall tall som skal skrives inn
 		
-		int nums[] = new int[n]; // lager en array med n antall int
+		int[] nums = new int[n]; // lager en array med n antall int
 		
 		for (int i = 0; i < n; i++) {
 			nums[i] = Integer.parseInt(showInputDialog("Skriv et heltall"));

@@ -8,5 +8,4 @@ public class OppgaveG1 {
 		b = 7;
 		System.out.println("a: " + a + ", b: " + b);
 	}
-
 }
