@@ -9,6 +9,7 @@
 		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/a"/>
 		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/b"/>
 		<excludeFolder url="file://$MODULE_DIR$/bin"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint"/>
 	</contentEntry>
 	<lib name="easygraphics.jar" scope="COMPILE">
 		<srcroot url="file://$MODULE_DIR$/../libraries/EasyGraphics/src"/>
