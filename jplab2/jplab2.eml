@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/2/a"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/3"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/5"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/d"/>
+		<excludeFolder url="file://$MODULE_DIR$/bin"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint"/>
+	</contentEntry>
+</component>

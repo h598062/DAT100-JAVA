@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-17" jdk_type="JavaSDK">
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/2"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/3"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/4"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/9"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/a"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/f"/>
+		<excludeFolder url="file://$MODULE_DIR$/bin"/>
+		<excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint"/>
+	</contentEntry>
+	<lib name="easygraphics.jar" scope="COMPILE">
+		<srcroot url="file://$MODULE_DIR$/../libraries/EasyGraphics"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/libraries/EasyGraphics"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libraries/EasyGraphics/easygraphics.jar!/"/>
+	</lib>
+</component>
