@@ -3,7 +3,7 @@ package no.hvl.dat100;
 import static javax.swing.JOptionPane.showInputDialog;
 import static javax.swing.JOptionPane.showMessageDialog;
 
-public class Oblig1 {
+public class ObligOppg1 {
 	public static void main(String[] args) {
 
 		int trinn1 = 190350;

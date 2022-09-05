@@ -3,7 +3,7 @@ package no.hvl.dat100;
 import static javax.swing.JOptionPane.showInputDialog;
 import static javax.swing.JOptionPane.showMessageDialog;
 
-public class Oblig3 {
+public class ObligOppg3 {
 	public static void main(String[] args) {
 		// Lag et program som leser inn et heltall n > 0,
 		// beregner verdien n! (n fakultet)

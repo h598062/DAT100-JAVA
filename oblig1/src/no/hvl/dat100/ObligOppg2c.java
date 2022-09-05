@@ -2,7 +2,7 @@ package no.hvl.dat100;
 
 import java.util.Scanner;
 
-public class Oblig2c {
+public class ObligOppg2c {
 	public static void main(String[] args) {
 		/*
 		 * a)
