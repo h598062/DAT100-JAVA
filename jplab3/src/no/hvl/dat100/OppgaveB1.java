@@ -21,7 +21,7 @@ public class OppgaveB1 {
 		} while (lowerNum > upperNum);
 		for (int i = lowerNum; i <= upperNum; i++) {
 			if (i % 2 == 1) {
-				// ignorer denne feilmeldingen :)
+				// ignorer StringBuilder feilmeldingen :)
 				msg = msg + i + " ";
 			}
 		}
