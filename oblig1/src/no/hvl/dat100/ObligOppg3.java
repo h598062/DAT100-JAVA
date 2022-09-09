@@ -5,9 +5,11 @@ import static javax.swing.JOptionPane.showMessageDialog;
 
 public class ObligOppg3 {
 	public static void main(String[] args) {
-		// Lag et program som leser inn et heltall n > 0,
-		// beregner verdien n! (n fakultet)
-		// og skriver verdien til n! ut på skjermen, der n! = 1*2*3* … *(n-1)*n.
+		/*
+			Lag et program som leser inn et heltall n > 0,
+			beregner verdien n! (n fakultet)
+			og skriver verdien til n! ut på skjermen, der n! = 1*2*3* … *(n-1)*n.
+		*/
 
 		// har ingen håndtering for hvis fakultet av tall blir større enn en long kan holde
 		long tall;
