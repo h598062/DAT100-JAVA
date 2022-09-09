@@ -46,7 +46,7 @@ public class ObligOppg1 {
 		System.out.println(skatt);
 		System.out.println(nettoInntekt);
 
-		String output = "Nettoinntekt: " + nettoInntekt + " Skatt: " + skatt;
+		String output = "Nettoinntekt: " + nettoInntekt + "\nSkatt: " + skatt;
 		showMessageDialog(null, output);
 
 	}
