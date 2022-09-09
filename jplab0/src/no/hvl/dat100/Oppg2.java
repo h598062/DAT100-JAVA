@@ -6,6 +6,7 @@ public class Oppg2 {
 		System.out.println("**********");
 		System.out.println("Nå virker det!");
 		System.out.println("**********");
+		// endring
 	}
 
 }
