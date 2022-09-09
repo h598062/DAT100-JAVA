@@ -13,6 +13,6 @@ public class Oppgave3 extends EasyGraphics {
 		setBackground(0, 0, 0);
 		setFont("Arial", 50);
 		setColor(255, 50, 50);
-		drawString("Heisann verden!", 50, 200);
+		drawString("Halvor har stor nese!", 50, 200);
 	}
 }
