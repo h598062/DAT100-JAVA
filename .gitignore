@@ -2,23 +2,23 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij+iml,eclipse,visualstudiocode,windows,macos,linux
 
 ### Eclipse ###
-.metadata
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.settings/
-.loadpath
-.recommenders
+**/.metadata
+**/bin/
+**/tmp/
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*~.nib
+**/local.properties
+**/.settings/
+**/.loadpath
+**/.recommenders
 
 # External tool builders
-.externalToolBuilders/
+**/.externalToolBuilders/
 
 # Locally stored "Eclipse launch configurations"
-*.launch
+**/*.launch
 
 # PyDev specific (Python IDE for Eclipse)
 **/*.pydevproject
@@ -280,3 +280,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij+iml,eclipse,visualstudiocode,windows,macos,linux
+
+!easygraphics.jar
+!easygraphics-jdk10.jar
