@@ -2,7 +2,7 @@ package no.hvl.dat100;
 
 public class OppgaveB1 {
 	public static void main(String[] args) {
-		printSinCosin(0, 180, 5);
+		printSinCosin(0, 180, 15);
 	}
 
 	private static void printSinCosin(double startAngle, double stopAngle, double step) {
