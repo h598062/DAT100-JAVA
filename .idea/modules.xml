@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dat100-javainnlevering2/dat100-javainnlevering2.iml" filepath="$PROJECT_DIR$/../dat100-javainnlevering2/dat100-javainnlevering2.iml" />
       <module fileurl="file://$PROJECT_DIR$/jplab0/jplab0.iml" filepath="$PROJECT_DIR$/jplab0/jplab0.iml" />
       <module fileurl="file://$PROJECT_DIR$/jplab1/jplab1.iml" filepath="$PROJECT_DIR$/jplab1/jplab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/jplab2/jplab2.iml" filepath="$PROJECT_DIR$/jplab2/jplab2.iml" />
