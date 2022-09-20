@@ -17,9 +17,14 @@ public class OppgaveG {
 		System.out.println("-------------------");
 		skrivUt(skiftfortegn(tabell));
 	}
+
 	public static void skrivUt(int[] tab) {
+		/*
 		for (int i = 0; i < tab.length; i++) {
 			System.out.println(tab[i]);
+		}*/
+		for (int num : tab) {
+			System.out.println(num);
 		}
 	}
 	public static boolean finnes(int[] tabell, int tall) {
