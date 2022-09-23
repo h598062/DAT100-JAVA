@@ -14,7 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
       <module fileurl="file://$PROJECT_DIR$/oblig1/oblig1.iml" filepath="$PROJECT_DIR$/oblig1/oblig1.iml" />
       <module fileurl="file://$PROJECT_DIR$/skoletest1/skoletest1.iml" filepath="$PROJECT_DIR$/skoletest1/skoletest1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../undervisning/sortering/sortering.iml" filepath="$PROJECT_DIR$/../undervisning/sortering/sortering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/undervisning/sortering/sortering.iml" filepath="$PROJECT_DIR$/undervisning/sortering/sortering.iml" />
     </modules>
   </component>
 </project>
