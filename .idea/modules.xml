@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" filepath="$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/EzLib/EzLib.iml" filepath="$PROJECT_DIR$/libraries/EzLib/EzLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dat100-javainnlevering2/dat100-javainnlevering2.iml" filepath="$PROJECT_DIR$/../dat100-javainnlevering2/dat100-javainnlevering2.iml" />
       <module fileurl="file://$PROJECT_DIR$/jplab0/jplab0.iml" filepath="$PROJECT_DIR$/jplab0/jplab0.iml" />
       <module fileurl="file://$PROJECT_DIR$/jplab1/jplab1.iml" filepath="$PROJECT_DIR$/jplab1/jplab1.iml" />
