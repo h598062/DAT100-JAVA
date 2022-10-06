@@ -12,7 +12,7 @@ package no.h598062.ezlib;
  *
  * @author h598062 aka Bjørnar
  */
-public class EzLib {
+public final class EzLib {
 	// dette er et library, ikke la noen lage et object av class
 	private EzLib() {
 	}
