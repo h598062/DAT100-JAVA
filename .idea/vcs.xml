@@ -8,6 +8,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../dat100-javainnlevering2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dat100-prosjekt-gps-startkode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dat100-prosjekt-gps-testing" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../jplab7-startcode-varelager" vcs="Git" />
   </component>
 </project>
