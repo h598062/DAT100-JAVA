@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-Blogg-Prosjekt/DAT100-Blogg-Prosjekt.iml" filepath="$PROJECT_DIR$/../DAT100-Blogg-Prosjekt/DAT100-Blogg-Prosjekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-Blogg-Prosjekt-Tests/DAT100-Blogg-Prosjekt-Tests.iml" filepath="$PROJECT_DIR$/../DAT100-Blogg-Prosjekt-Tests/DAT100-Blogg-Prosjekt-Tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DAT100-GPS-Prosjekt/DAT100-GPS-Prosjekt.iml" filepath="$PROJECT_DIR$/../DAT100-GPS-Prosjekt/DAT100-GPS-Prosjekt.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" filepath="$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/EzLib/EzLib.iml" filepath="$PROJECT_DIR$/libraries/EzLib/EzLib.iml" />
