@@ -27,18 +27,15 @@ public class MiniExcel {
 		// for hver rad (med unntak av siste rad) summer elementene
 		// og skriv summen i den siste posisjonen for den aktuelle raden
 
+		// for hver kolonne (med unntak av siste kolonne) summer elementene
+		// og skriv summen i siste rad i posisjonen svarende til den aktuelle kolonnen
+
 		for (int i = 0; i < data.length-1; i++) {
 			for (int j = 0; j < data[i].length-1; j++) {
 				data[i][data[i].length-1] += data[i][j];
+				data[data.length-1][j] += data[i][j];
 			}
 		}
-
-		// TODO - START
-
-		// for hver kolonne (med unntak av siste kolonne) summer elementene 
-		// og skriv summen i siste rad i posisjonen svarende til den aktuelle kolonnen
-		
-		// TODO - END
 
 	}
 
