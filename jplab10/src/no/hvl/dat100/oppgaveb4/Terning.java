@@ -1,20 +1,22 @@
 package no.hvl.dat100.oppgaveb4;
 
+import java.util.Random;
+
 public class Terning {
 
 	// aktuell verdi for terningen
-	private int oyne;
+	private       int    oyne;
+	private final Random rnd = new Random();
 
 	public Terning() {
-		// TODO
+		trill();
 	}
 
 	public int getOyne() {
-
-		return 0; // TODO
+		return this.oyne;
 	}
 
 	public void trill() {
-		// TODO
+		this.oyne = rnd.nextInt(1, 7);
 	}
 }
