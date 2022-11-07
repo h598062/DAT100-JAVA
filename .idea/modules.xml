@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" filepath="$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/EzLib/EzLib.iml" filepath="$PROJECT_DIR$/libraries/EzLib/EzLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/Lombok/Lombok.iml" filepath="$PROJECT_DIR$/libraries/Lombok/Lombok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U01Introduksjon/U01Introduksjon.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U01Introduksjon/U01Introduksjon.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dat100-javainnlevering2/dat100-javainnlevering2.iml" filepath="$PROJECT_DIR$/../dat100-javainnlevering2/dat100-javainnlevering2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dat100-prosjekt-gps-testing/dat100-prosjekt-gps-testing.iml" filepath="$PROJECT_DIR$/../dat100-prosjekt-gps-testing/dat100-prosjekt-gps-testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dat100public/dat100public.iml" filepath="$PROJECT_DIR$/../dat100public/dat100public.iml" />
@@ -28,7 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/skoletest1/skoletest1.iml" filepath="$PROJECT_DIR$/skoletest1/skoletest1.iml" />
       <module fileurl="file://$PROJECT_DIR$/undervisning/sortering/sortering.iml" filepath="$PROJECT_DIR$/undervisning/sortering/sortering.iml" />
       <module fileurl="file://$PROJECT_DIR$/tull/tull.iml" filepath="$PROJECT_DIR$/tull/tull.iml" />
-      <module fileurl="file://$PROJECT_DIR$/undervisning/undervisning.iml" filepath="$PROJECT_DIR$/undervisning/undervisning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/undervisning-min/undervisning-min.iml" filepath="$PROJECT_DIR$/undervisning-min/undervisning-min.iml" />
     </modules>
   </component>
 </project>
