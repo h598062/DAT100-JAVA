@@ -12,7 +12,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../dat100-javainnlevering2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../dat100-prosjekt-gps-testing" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../dat100public" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../jplab7-startcode-varelager" vcs="Git" />
   </component>
 </project>

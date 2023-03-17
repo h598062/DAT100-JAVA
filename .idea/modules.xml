@@ -8,30 +8,30 @@
       <module fileurl="file://$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" filepath="$PROJECT_DIR$/libraries/EasyGraphics/EasyGraphics.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/EzLib/EzLib.iml" filepath="$PROJECT_DIR$/libraries/EzLib/EzLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/Lombok/Lombok.iml" filepath="$PROJECT_DIR$/libraries/Lombok/Lombok.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U01Introduksjon/U01Introduksjon.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U01Introduksjon/U01Introduksjon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U01Kalkulator/U01Kalkulator.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U01Kalkulator/U01Kalkulator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U02SetningerUttrykk/U02SetningerUttrykk.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U02SetningerUttrykk/U02SetningerUttrykk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U03Valgsetninger/U03Valgsetninger.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U03Valgsetninger/U03Valgsetninger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U04Lokker/U04Lokker.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U04Lokker/U04Lokker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U05Kontrollstrukturer/U05Kontrollstrukturer.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U05Kontrollstrukturer/U05Kontrollstrukturer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U06MetoderA/U06MetoderA.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U06MetoderA/U06MetoderA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U06MetoderB/U06MetoderB.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U06MetoderB/U06MetoderB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U07Tabeller/U07Tabeller.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U07Tabeller/U07Tabeller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U09TabellerArrays/U09TabellerArrays.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U09TabellerArrays/U09TabellerArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U10FlerDimTabeller/U10FlerDimTabeller.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U10FlerDimTabeller/U10FlerDimTabeller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U11SorteringOgSoking/U11SorteringOgSoking.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U11SorteringOgSoking/U11SorteringOgSoking.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U12SkuleproveGjennomgang/U12SkuleproveGjennomgang.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U12SkuleproveGjennomgang/U12SkuleproveGjennomgang.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U13Objekter_1/U13Objekter_1.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U13Objekter_1/U13Objekter_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U14Objekter_2/U14Objekter_2.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U14Objekter_2/U14Objekter_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U16Filer/U16Filer.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U16Filer/U16Filer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U17Unntak/U17Unntak.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U17Unntak/U17Unntak.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U18Objektsamlinger/U18Objektsamlinger.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U18Objektsamlinger/U18Objektsamlinger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U19SubklasserOgArv/U19SubklasserOgArv.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U19SubklasserOgArv/U19SubklasserOgArv.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U20Grensesnitt/U20Grensesnitt.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U20Grensesnitt/U20Grensesnitt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/U22GUI/U22GUI.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/U22GUI/U22GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U01Introduksjon/U01Introduksjon.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U01Introduksjon/U01Introduksjon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U01Kalkulator/U01Kalkulator.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U01Kalkulator/U01Kalkulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U02SetningerUttrykk/U02SetningerUttrykk.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U02SetningerUttrykk/U02SetningerUttrykk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U03Valgsetninger/U03Valgsetninger.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U03Valgsetninger/U03Valgsetninger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U04Lokker/U04Lokker.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U04Lokker/U04Lokker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U05Kontrollstrukturer/U05Kontrollstrukturer.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U05Kontrollstrukturer/U05Kontrollstrukturer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U06MetoderA/U06MetoderA.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U06MetoderA/U06MetoderA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U06MetoderB/U06MetoderB.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U06MetoderB/U06MetoderB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U07Tabeller/U07Tabeller.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U07Tabeller/U07Tabeller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U09TabellerArrays/U09TabellerArrays.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U09TabellerArrays/U09TabellerArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U10FlerDimTabeller/U10FlerDimTabeller.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U10FlerDimTabeller/U10FlerDimTabeller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U11SorteringOgSoking/U11SorteringOgSoking.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U11SorteringOgSoking/U11SorteringOgSoking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U12SkuleproveGjennomgang/U12SkuleproveGjennomgang.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U12SkuleproveGjennomgang/U12SkuleproveGjennomgang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U13Objekter_1/U13Objekter_1.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U13Objekter_1/U13Objekter_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U14Objekter_2/U14Objekter_2.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U14Objekter_2/U14Objekter_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U16Filer/U16Filer.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U16Filer/U16Filer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U17Unntak/U17Unntak.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U17Unntak/U17Unntak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U18Objektsamlinger/U18Objektsamlinger.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U18Objektsamlinger/U18Objektsamlinger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U19SubklasserOgArv/U19SubklasserOgArv.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U19SubklasserOgArv/U19SubklasserOgArv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U20Grensesnitt/U20Grensesnitt.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U20Grensesnitt/U20Grensesnitt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U22GUI/U22GUI.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/U22GUI/U22GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dat100-javainnlevering2/dat100-javainnlevering2.iml" filepath="$PROJECT_DIR$/../dat100-javainnlevering2/dat100-javainnlevering2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dat100-prosjekt-gps-testing/dat100-prosjekt-gps-testing.iml" filepath="$PROJECT_DIR$/../dat100-prosjekt-gps-testing/dat100-prosjekt-gps-testing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/dat100public.iml" filepath="$PROJECT_DIR$/../dat100public/dat100public.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/DAT100-HVL-OPPGAVER-EKSEMPLER.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/DAT100-HVL-OPPGAVER-EKSEMPLER.iml" />
       <module fileurl="file://$PROJECT_DIR$/jplab0/jplab0.iml" filepath="$PROJECT_DIR$/jplab0/jplab0.iml" />
       <module fileurl="file://$PROJECT_DIR$/jplab1/jplab1.iml" filepath="$PROJECT_DIR$/jplab1/jplab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/jplab10/jplab10.iml" filepath="$PROJECT_DIR$/jplab10/jplab10.iml" />
@@ -50,7 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/skoletester/skoletest2/skoletest2.iml" filepath="$PROJECT_DIR$/skoletester/skoletest2/skoletest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/skoletester/skoletester.iml" filepath="$PROJECT_DIR$/skoletester/skoletester.iml" />
       <module fileurl="file://$PROJECT_DIR$/undervisning-min/sortering/sortering.iml" filepath="$PROJECT_DIR$/undervisning-min/sortering/sortering.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dat100public/undervisning/undervisning.iml" filepath="$PROJECT_DIR$/../dat100public/undervisning/undervisning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/undervisning.iml" filepath="$PROJECT_DIR$/../DAT100-HVL-OPPGAVER-EKSEMPLER/undervisning/undervisning.iml" />
       <module fileurl="file://$PROJECT_DIR$/undervisning-min/undervisning-min.iml" filepath="$PROJECT_DIR$/undervisning-min/undervisning-min.iml" />
     </modules>
   </component>
